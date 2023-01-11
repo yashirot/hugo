@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://yashirot.github.io/hugo/"
+publishDir = "docs"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
