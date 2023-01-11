@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>https://yashirot.github.io/hugo/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>ja-jp</language><managingEditor>yashiro_taketsugu@yahoo.co.jp (Yashiro Taketsugu)</managingEditor>
+            <webMaster>yashiro_taketsugu@yahoo.co.jp (Yashiro Taketsugu)</webMaster><lastBuildDate>Wed, 04 Jan 2023 14:43:56 &#43;0900</lastBuildDate>
+            <atom:link href="https://yashirot.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>【リスト】TBS「ラヴィット！」視聴者プレゼントのキーワード（2023年-）</title>
+    <link>https://yashirot.github.io/hugo/posts/keywords/</link>
+    <pubDate>Wed, 04 Jan 2023 14:43:56 &#43;0900</pubDate>
+    <author>Yashiro Taketsugu</author>
+    <guid>https://yashirot.github.io/hugo/posts/keywords/</guid>
+    <description><![CDATA[放送回No,OA日,キーワード,発表者（敬称略）,プレゼント内容
+のデータ集です。オープンデータを意識してcsvにしやすいフォーマットにしてみました。
+データのサイクルを整えるため、プレゼント告知のない日、放送のなかった日も1行入れています。
+2023年 1Q（#0445-） #0447,2023/01/06,妻が金ドラで女優デビュー,ジャングルポケット 太田,ハウステンボス入場ペアチケット
+#0446,2023/01/05,ガオーちゃんVSイージィードゥーダンサーズ,コットン,韓国で5人がデザインしたお皿
+#0445,2023/01/04,矢田さん守谷日和にハマル（フリップ上は「守屋」）,アンタッチャブル 柴田,富士急ハイランドのペアチケット
+-,2023/01/03,,,（放送なし）
+-,2023/01/02,,,（放送なし）
+2021年-2022年のリストはこちら]]></description>
+</item>
+</channel>
+</rss>
