@@ -4,9 +4,18 @@
         <link>https://yashirot.github.io/hugo/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>ja-jp</language><managingEditor>yashiro_taketsugu@yahoo.co.jp (Yashiro Taketsugu)</managingEditor>
-            <webMaster>yashiro_taketsugu@yahoo.co.jp (Yashiro Taketsugu)</webMaster><lastBuildDate>Wed, 04 Jan 2023 14:43:56 &#43;0900</lastBuildDate>
+            <webMaster>yashiro_taketsugu@yahoo.co.jp (Yashiro Taketsugu)</webMaster><lastBuildDate>Thu, 12 Jan 2023 19:39:02 &#43;0900</lastBuildDate>
             <atom:link href="https://yashirot.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>訃報</title>
+    <link>https://yashirot.github.io/hugo/posts/fuhou/</link>
+    <pubDate>Thu, 12 Jan 2023 19:39:02 &#43;0900</pubDate>
+    <author>Yashiro Taketsugu</author>
+    <guid>https://yashirot.github.io/hugo/posts/fuhou/</guid>
+    <description><![CDATA[訃報です。
+2023年 高橋幸宏死去（1月11日）。70歳。 ジェフ・ベック死去（1月10日）。78歳。 ]]></description>
+</item>
+<item>
     <title>【リスト】TBS「ラヴィット！」視聴者プレゼントのキーワード（2023年-）</title>
     <link>https://yashirot.github.io/hugo/posts/keywords/</link>
     <pubDate>Wed, 04 Jan 2023 14:43:56 &#43;0900</pubDate>
@@ -15,7 +24,12 @@
     <description><![CDATA[放送回No,OA日,キーワード,発表者（敬称略）,プレゼント内容
 のデータ集です。オープンデータを意識してcsvにしやすいフォーマットにしてみました。
 データのサイクルを整えるため、プレゼント告知のない日、放送のなかった日も1行入れています。
-2023年 1Q（#0445-） #0447,2023/01/06,妻が金ドラで女優デビュー,ジャングルポケット 太田,ハウステンボス入場ペアチケット
+2023年 1Q（#0445-） #0452,2023/01/13,首細い,ハリウッドザコシショウ（#はみ出しラヴィット！で発表）,ペンギンタワーバランスゲーム
+#0451,2023/01/12,ヤーレンズ次は金曜日,ヤーレンズ,「コンフォートソウル」のオリジナル バケットハット
+#0450,2023/01/11,カラデミー会員盛山追加,コットン,鬼金棒特製「カラシビスパイス」
+#0449,2023/01/10,安住の私服が見てみたい,アルコ＆ピース 平子,ラッピーフロアマット
+#0448,2023/01/09,成人式だョパインパワー,もう中学生,newQの「タルト詰め合わせ」
+#0447,2023/01/06,妻が金ドラで女優デビュー,ジャングルポケット 太田,ハウステンボス入場ペアチケット
 #0446,2023/01/05,ガオーちゃんVSイージィードゥーダンサーズ,コットン,韓国で5人がデザインしたお皿
 #0445,2023/01/04,矢田さん守谷日和にハマル（フリップ上は「守屋」）,アンタッチャブル 柴田,富士急ハイランドのペアチケット
 -,2023/01/03,,,（放送なし）
