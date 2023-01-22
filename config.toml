@@ -5,7 +5,7 @@ publishDir = "docs"
 theme = "LoveIt"
 
 # website title
-title = "My New Hugo Site"
+title = "ヤシロの静的サイトジェネレーション"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "ja-jp"
@@ -14,9 +14,9 @@ languageName = "Japanese"
 
 # Author config
 [author]
-  name = "Yashiro Taketsugu"
+  name = "ヤシロタケツグ"
   email = "yashiro_taketsugu@yahoo.co.jp"
-  link = ""
+  link = "https://www.poc39.com/about"
 
 # Menu config
 [menu]
