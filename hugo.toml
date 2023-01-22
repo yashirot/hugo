@@ -11,6 +11,11 @@ title = "ヤシロの静的サイトジェネレーション"
 languageCode = "ja-jp"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "Japanese"
+# whether to include Chinese/Japanese/Korean
+hasCJKLanguage = true
+
+# Google Analytics 4
+googleAnalytics = "G-EP2NB86QXB"
 
 # Author config
 [author]
@@ -55,5 +60,6 @@ languageName = "Japanese"
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
 
-# Google Analytics 4
-googleAnalytics = "G-EP2NB86QXB"
+# Analytics config
+[params.analytics]
+  enable = true
