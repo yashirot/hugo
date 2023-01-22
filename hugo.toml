@@ -55,3 +55,5 @@ languageName = "Japanese"
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
 
+# Google Analytics 4
+googleAnalytics = "G-EP2NB86QXB"
