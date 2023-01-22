@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
+        <title>ヤシロの静的サイトジェネレーション</title>
         <link>https://yashirot.github.io/hugo/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja-jp</language><managingEditor>yashiro_taketsugu@yahoo.co.jp (Yashiro Taketsugu)</managingEditor>
-            <webMaster>yashiro_taketsugu@yahoo.co.jp (Yashiro Taketsugu)</webMaster><lastBuildDate>Thu, 12 Jan 2023 19:39:02 &#43;0900</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>ja-jp</language><managingEditor>yashiro_taketsugu@yahoo.co.jp (ヤシロタケツグ)</managingEditor>
+            <webMaster>yashiro_taketsugu@yahoo.co.jp (ヤシロタケツグ)</webMaster><lastBuildDate>Thu, 12 Jan 2023 19:39:02 &#43;0900</lastBuildDate>
             <atom:link href="https://yashirot.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>訃報</title>
     <link>https://yashirot.github.io/hugo/posts/fuhou/</link>
     <pubDate>Thu, 12 Jan 2023 19:39:02 &#43;0900</pubDate>
-    <author>Yashiro Taketsugu</author>
+    <author>ヤシロタケツグ</author>
     <guid>https://yashirot.github.io/hugo/posts/fuhou/</guid>
     <description><![CDATA[訃報です。
 2023年 高橋幸宏死去（1月11日）。70歳。 ジェフ・ベック死去（1月10日）。78歳。 2022年までのリストはこちら]]></description>
@@ -19,7 +19,7 @@
     <title>【リスト】TBS「ラヴィット！」視聴者プレゼントのキーワード（2023年-）</title>
     <link>https://yashirot.github.io/hugo/posts/keywords/</link>
     <pubDate>Wed, 04 Jan 2023 14:43:56 &#43;0900</pubDate>
-    <author>Yashiro Taketsugu</author>
+    <author>ヤシロタケツグ</author>
     <guid>https://yashirot.github.io/hugo/posts/keywords/</guid>
     <description><![CDATA[放送回No,OA日,キーワード,発表者（敬称略）,プレゼント内容
 のデータ集です。オープンデータを意識してcsvにしやすいフォーマットにしてみました。

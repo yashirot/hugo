@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - My New Hugo Site</title>
+        <title>Categories - Category - ヤシロの静的サイトジェネレーション</title>
         <link>https://yashirot.github.io/hugo/categories/</link>
-        <description>Categories - Category - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja-jp</language><managingEditor>yashiro_taketsugu@yahoo.co.jp (Yashiro Taketsugu)</managingEditor>
-            <webMaster>yashiro_taketsugu@yahoo.co.jp (Yashiro Taketsugu)</webMaster><atom:link href="https://yashirot.github.io/hugo/categories/" rel="self" type="application/rss+xml" /></channel>
+        <description>Categories - Category - ヤシロの静的サイトジェネレーション</description>
+        <generator>Hugo -- gohugo.io</generator><language>ja-jp</language><managingEditor>yashiro_taketsugu@yahoo.co.jp (ヤシロタケツグ)</managingEditor>
+            <webMaster>yashiro_taketsugu@yahoo.co.jp (ヤシロタケツグ)</webMaster><atom:link href="https://yashirot.github.io/hugo/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
