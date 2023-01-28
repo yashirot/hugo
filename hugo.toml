@@ -15,7 +15,7 @@ languageName = "Japanese"
 hasCJKLanguage = true
 
 # Google Analytics 4
-googleAnalytics = "G-EP2NB86QXB"
+googleAnalytics = ""
 
 # Author config
 [author]
