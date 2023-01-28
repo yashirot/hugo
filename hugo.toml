@@ -17,6 +17,9 @@ hasCJKLanguage = true
 # Google Analytics 4
 googleAnalytics = ""
 
+# Use Git commit date
+enableGitInfo = true
+
 # Author config
 [author]
   name = "ヤシロタケツグ"

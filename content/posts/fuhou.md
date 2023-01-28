@@ -1,6 +1,7 @@
 ---
 title: "訃報"
 date: 2023-01-12T19:39:02+09:00
+lastmod: :git
 draft: false
 ---
 
